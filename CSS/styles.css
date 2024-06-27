@@ -39,7 +39,6 @@ html, body {
     mix-blend-mode:screen;
 }
 .sm {
-    /* Change color of button */
     background-color: #1B4DE4;
     border: 0px;
     color: white;
